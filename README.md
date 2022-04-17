@@ -71,3 +71,5 @@
 ### Support my work and make donations!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Blackoutseeker)
+
+[!["PayPal Donate"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=NEXQJS4U5HGC6)
